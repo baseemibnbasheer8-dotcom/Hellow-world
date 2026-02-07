@@ -8,10 +8,12 @@
 <h1>HI EVERYONE this is the MODIFICATION from the master </h1>
 <h1>HI EVERYONE this is the MODIFICATION form the my second branch</h1>
 <p>this is in the future</p>
-<<<<<<< HEAD
 <h2>good</h2>
+<<<<<<< HEAD
+<h2>very good for you</h2>
 =======
-<h2>this good from my third branch</h2>
->>>>>>> my-third-branch
+<h3>nothing back from</h3>
+<h1>good night</h1>
+>>>>>>> my-fourth-branch
 </body>
 </html>
